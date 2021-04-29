@@ -1,0 +1,34 @@
+{
+  "catalogConfig": {
+    "ROOT": {
+      "fields": {
+        "review": [
+          "Age",
+          "Gender",
+          "Quality"
+        ],
+        "question" : [
+          "Gender"
+        ]
+      }
+    },
+    "category7": {
+      "fields": {
+        "review": [
+          "Age",
+          "Quality"
+        ]
+      }
+    },
+    "category8": {
+      "fields": {
+        "review": [
+          "Quality"
+        ],
+        "question" : [
+          "Age"
+        ]
+      }
+    }
+  }
+}

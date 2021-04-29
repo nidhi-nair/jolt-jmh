@@ -1,0 +1,26 @@
+{
+  "Age": {
+    "review": [
+      "ROOT",
+      "category7"
+    ],
+    "question": [
+      "category8"
+    ]
+  },
+  "Gender": {
+    "review": [
+      "ROOT"
+    ],
+    "question": [
+      "ROOT"
+    ]
+  },
+  "Quality": {
+    "review": [
+      "ROOT",
+      "category7",
+      "category8"
+    ]
+  }
+}

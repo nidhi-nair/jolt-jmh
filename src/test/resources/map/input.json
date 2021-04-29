@@ -1,0 +1,12 @@
+{
+  "rating": {
+    "primary": {
+      "value": 4,
+      "max": 5
+    },
+    "quality": {
+      "value": 3,
+      "max": 7
+    }
+  }
+}
